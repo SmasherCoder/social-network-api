@@ -4,5 +4,23 @@
     "moment": "^2.29.1",
     "mongoose": "^6.1.8",
     "nodemon": "^2.0.15"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmasherCoder/social-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmasherCoder/social-network-api/issues"
+  },
+  "homepage": "https://github.com/SmasherCoder/social-network-api#readme"
 }
